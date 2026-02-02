@@ -1,0 +1,43 @@
+site_name: Processos Estocásticos
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - attr_list
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Início: index.md
+  - 1. Cadeias de Markov (Discreto):
+    - Teoria: capitulo1/teoria.md
+    - Exercícios: capitulo1/exercicios.md
+  - 2. Processos de Poisson:
+    - Teoria: capitulo2/teoria.md
+    - Exercícios: capitulo2/exercicios.md
+  - 3. Cadeias de Markov (Contínuo):
+    - Teoria: capitulo3/teoria.md
+    - Exercícios: capitulo3/exercicios.md
+  - 4. Processos de Renovação:
+    - Teoria: capitulo4/teoria.md
+    - Exercícios: capitulo4/exercicios.md
+  - 5. Martingales:
+    - Teoria: capitulo5/teoria.md
+    - Exercícios: capitulo5/exercicios.md
+  - 6. Movimento Browniano:
+    - Teoria: capitulo6/teoria.md
+    - Exercícios: capitulo6/exercicios.md    

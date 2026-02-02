@@ -1,0 +1,6 @@
+meu-responde-ai/
+├── venv/                 # Pasta do ambiente virtual
+├── docs/                 # Onde ficam os arquivos .md do site
+├── mkdocs.yml            # Configuração do site
+├── main.py               # O SEU SCRIPT PYTHON (Gemini / Automação)
+└── requirements.txt      # Bibliotecas (mkdocs, google-generativeai, etc.)
