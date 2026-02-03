@@ -14,7 +14,7 @@ O conteúdo completo pode ser acessado em:
 * **MathJax**: Renderização de fórmulas matemáticas via LaTeX
 
 ## 🚀 Como Rodar Localmente
-Se precisar editar os arquivos em outro computador do laboratório, siga estes passos:
+Se precisar editar os arquivos em outro computador, siga estes passos:
 
 1. **Clonar o repositório:**
    ```powershell
