@@ -4,7 +4,7 @@ Repositório dedicado ao estudo e resolução de problemas de **Processos Estoc�
 
 ## 🌐 Site Online
 O conteúdo completo pode ser acessado em:  
-👉 **[SEU_LINK_AQUI](https://SEU_USUARIO.github.io/NOME_DO_REPO/)**
+👉 **[SEU_LINK_AQUI](https://lcarlosazeredo.github.io/processos-estocasticos/)**
 
 ---
 
