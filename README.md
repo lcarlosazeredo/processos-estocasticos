@@ -18,5 +18,6 @@ Se precisar editar os arquivos em outro computador do laboratório, siga estes p
 
 1. **Clonar o repositório:**
    ```powershell
+   git clone https://github.com/lcarlosazeredo/processos-estocasticos.git
    git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
    cd NOME_DO_REPO
